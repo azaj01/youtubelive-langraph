@@ -9,3 +9,16 @@ bs4
 tiktoken
 chromadb
 langchain_google_genai
+torch
+torchvision
+torchaudio
+torchtext
+datasets
+tokenizers
+torchmetrics
+tensorboard
+altair
+wandb
+spacy
+torchinfo
+scikit-learn
